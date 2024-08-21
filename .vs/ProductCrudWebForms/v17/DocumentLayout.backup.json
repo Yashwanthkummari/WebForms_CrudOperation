@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Yashwanth\\Visual Studio\\WebForms\\ProductCrudWebForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBD28B5-6F85-4678-8DD4-90FA16E98012}|ProductCrudWebForms\\ProductCrudWebForms.csproj|c:\\yashwanth\\visual studio\\webforms\\productcrudwebforms\\productcrudwebforms\\product_create.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1DBD28B5-6F85-4678-8DD4-90FA16E98012}|ProductCrudWebForms\\ProductCrudWebForms.csproj|solutionrelative:productcrudwebforms\\product_create.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBD28B5-6F85-4678-8DD4-90FA16E98012}|ProductCrudWebForms\\ProductCrudWebForms.csproj|C:\\Yashwanth\\Visual Studio\\WebForms\\ProductCrudWebForms\\productcrudwebforms\\product_create.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBD28B5-6F85-4678-8DD4-90FA16E98012}|ProductCrudWebForms\\ProductCrudWebForms.csproj|solutionrelative:productcrudwebforms\\product_create.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product_Create.aspx.cs",
+              "DocumentMoniker": "C:\\Yashwanth\\Visual Studio\\WebForms\\ProductCrudWebForms\\ProductCrudWebForms\\Product_Create.aspx.cs",
+              "RelativeDocumentMoniker": "ProductCrudWebForms\\Product_Create.aspx.cs",
+              "ToolTip": "C:\\Yashwanth\\Visual Studio\\WebForms\\ProductCrudWebForms\\ProductCrudWebForms\\Product_Create.aspx.cs",
+              "RelativeToolTip": "ProductCrudWebForms\\Product_Create.aspx.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAASwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:36:53.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product_Create.aspx",
+              "DocumentMoniker": "C:\\Yashwanth\\Visual Studio\\WebForms\\ProductCrudWebForms\\ProductCrudWebForms\\Product_Create.aspx",
+              "RelativeDocumentMoniker": "ProductCrudWebForms\\Product_Create.aspx",
+              "ToolTip": "C:\\Yashwanth\\Visual Studio\\WebForms\\ProductCrudWebForms\\ProductCrudWebForms\\Product_Create.aspx",
+              "RelativeToolTip": "ProductCrudWebForms\\Product_Create.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-19T15:39:16.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
